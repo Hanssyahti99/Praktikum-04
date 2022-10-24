@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <fieldset>
+        <legend>Directory Profile Page</legend>
+        <header>
+            <main style="display: flex; margin:10px 0;">
+            <article style="margin-right: 10px; width:75%"> 
+                <hr><b>Profile Name</b></hr>
+                <p>Chicago Street No.1</p>
+                <br> 
+                <p>Los Angeles, United States</p>
+                <br> 
+                <p>Email : <a href="jacobrockafeller@gmail.com"></a>jacobrockafeller@gmail.com</p>
+                <br> 
+                <p>Phone : 221952637</p>
+                <br>
+            </article>
+            <aside style="text-align: right; width:25%;">
+                <div class="cate">
+                    <p><a href="#" class="garis">Category</a>
+                        <br> <br>
+                        Adress
+                        <br> <br>
+                        Home
+                        <br> <br>
+                        City
+                        <br> <br>
+                        Email
+                        <br> <br>
+                        Telephone Number</p> 
+                        </div>
+                    </aside>
+                </main> 
+            </header> 
+                <article style="text-align: justify;">
+                <section><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque maxime rerum dolores architecto officiis delectus saepe nemo ratione laborum temporibus mollitia, possimus placeat ipsum cupiditate dolorum a voluptates? Tempora, aperiam.</p></section>
+                <section><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque maxime rerum dolores architecto officiis delectus saepe nemo ratione laborum temporibus mollitia, possimus placeat ipsum cupiditate dolorum a voluptates? Tempora, aperiam.</p></section>
+                <br> <br>
+                <section><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque maxime rerum dolores architecto officiis delectus saepe nemo ratione laborum temporibus mollitia, possimus placeat ipsum cupiditate dolorum a voluptates? Tempora, aperiam.</p></section>
+                <tr>
+                    <td>
+                        <video width="260" height="200" controls>
+                            <source src="video.mp4" type="video/mp4">
+                          </video>
+                    </td>
+                </tr>
+            </table>
+            <table align="center" style="margin-top: -200px; margin-left: 550px;">
+                <tr>
+                    <td><img src="assets/1523925500829.jpg" alt="" width="90" height="90"></td>
+                    <td><img src="assets/752517_original.jpg" alt="" width="90" height="90"></td>
+                </tr>
+        </header>
+    
+</body>
+</html>
